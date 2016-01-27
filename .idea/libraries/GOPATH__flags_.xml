@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;flags&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../tns-restful-json-api" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../gorilla/context/.git" />
+      <root url="file://$PROJECT_DIR$/../../digitalocean/godo/.idea" />
+      <root url="file://$PROJECT_DIR$/../../gosexy/to/.git" />
+      <root url="file://$PROJECT_DIR$/../go/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../gosexy/dig/.git" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../gosexy/rest/.git" />
+      <root url="file://$PROJECT_DIR$/../../gosexy/rest-ex/.idea" />
+      <root url="file://$PROJECT_DIR$/../../gosexy/rest/_examples" />
+      <root url="file://$PROJECT_DIR$/../cli/.idea" />
+      <root url="file://$PROJECT_DIR$/../hello/.git" />
+      <root url="file://$PROJECT_DIR$/../../gorilla/mux/.git" />
+      <root url="file://$PROJECT_DIR$/../../digitalocean/godo/.git" />
+      <root url="file://$PROJECT_DIR$/../../../tns-restful-json-api/.git" />
+      <root url="file://$PROJECT_DIR$/../../ryancox/go-jenkins-setup/.git" />
+    </excluded>
+  </library>
+</component>
